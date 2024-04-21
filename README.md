@@ -5,7 +5,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-💾 I’ve been in the IT game for over 10 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/nana-oware-944bba282/), [Thales](https://www.linkedin.com/in/nana-oware-944bba282//), and [Amazon](https://www.linkedin.com/in/nana-oware-944bba282/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
+💾 I’ve been in the IT game for over 5 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/nana-oware-944bba282/), [Thales](https://www.linkedin.com/in/nana-oware-944bba282//), and [Amazon](https://www.linkedin.com/in/nana-oware-944bba282/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
 
 💛 I have my own IT [blog](https://tech.nanaoware.online/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
 
@@ -20,7 +20,7 @@ Let’s do this together!
 
 # My Digital Badges
 
-<a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
+<a href="https://app.daily.dev/heyvaldemar"><img src="https://pfp.nostr.build/663ce288381c6a1bbf9ee09cccdf8efcc5025ded44e22e50a041543cd4f8f82c.jpg?type=wide&r=24q" width="652" alt="Dennis Agyepong Dev Card"/></a>
 
 <a href="https://www.credly.com/badges/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
     <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
