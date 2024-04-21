@@ -103,17 +103,17 @@ Let’s do this together!
 apiVersion: v47
 kind: Human
 metadata:
-  name: Vladimir Mikhalev
+  name: Dennis Agyepong
 spec:
   purpose: Help others learn container DevOps
-  sponsorship: patreon.com/heyvaldemar
+  sponsorship: patreon.com/Linuxpad
   locations:
     - 
       type: YouTube
       where: youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ
     - 
       type: Homepage
-      where: heyvaldemar.com
+      where: tech.nanaoware.com
     - 
       type: Discord Server
       where: discord.gg/AJQGCCBcqf
