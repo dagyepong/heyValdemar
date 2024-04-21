@@ -1,13 +1,13 @@
-hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Vladimir Mikhalev
+hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Dennis Agyepong
 =========================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Valdemar.)](https://github.com/sponsors/heyValdemar)
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-💾 I’ve been in the IT game for over 20 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/heyvaldemar/), [Thales](https://www.linkedin.com/in/heyvaldemar/), and [Amazon](https://www.linkedin.com/in/heyvaldemar/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
+💾 I’ve been in the IT game for over 10 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/nana-oware-944bba282/), [Thales](https://www.linkedin.com/in/nana-oware-944bba282//), and [Amazon](https://www.linkedin.com/in/nana-oware-944bba282/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
 
-💛 I have my own IT [blog](https://www.heyvaldemar.com/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
+💛 I have my own IT [blog](https://tech.nanaoware.online/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
 
 🚀 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
 
@@ -15,7 +15,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Let’s do this together!
 
-🌐 Check out my [website](https://www.heyvaldemar.com/) with extremely detailed IT guides\
+🌐 Check out my [website](https://tech.nanaoware.online) with extremely detailed IT guides\
 💬 Join my DevOps community on [Discord](https://discord.gg/AJQGCCBcqf)
 
 # My Digital Badges
