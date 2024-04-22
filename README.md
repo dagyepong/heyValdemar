@@ -84,7 +84,11 @@ spec:
 ### GitHub Streak
 <div align="center">
 
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=nanaoware&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/dagyepong)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagyepong&show_icons=true&locale=en&layout=compact" alt="dagyepong" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagyepong&show_icons=true&locale=en" alt="dagyepong" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagyepong&" alt="dagyepong" /></p>
 
 </div>
 
