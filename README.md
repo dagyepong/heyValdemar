@@ -5,11 +5,11 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-💾 I’ve been in the IT game for over 5 years, cutting my teeth with some big names like [IBM](https://www.linkedin.com/in/nana-oware-944bba282/), [Thales](https://www.linkedin.com/in/nana-oware-944bba282//), and [Amazon](https://www.linkedin.com/in/nana-oware-944bba282/). These days, I wear the hat of a DevOps Consultant and Team Lead, but what really gets me going is Docker and container technology - I’m kind of obsessed!
+🧩 I’ve been in the IT game for over 5 years, and using Linux has really been great so far! These days, I wear the hat of a Cyber Security Analyst, but what really gets me going is Docker and container technology. Can't say much but the tech is truly an obsession!
 
-💛 I have my own IT [blog](https://tech.nanaoware.online/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
+🧩 I have my own IT [blog](https://tech.nanaoware.online/), where I’ve built a [community](https://discord.gg/AJQGCCBcqf) of DevOps enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
 
-🚀 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
+🧩 My dream is to empower every single person in the DevOps community to squeeze every last drop of potential out of Docker and container tech.
 
 🐳 As a [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/), I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
 
